@@ -10,5 +10,5 @@ If the player whose turn it is to play cannot place a new checker anywhere witho
 rules, you automatically display a relevant message and the other player plays.
 Also after each move you show the state of the game.
 
-To compile and start executing the program, we run the main method
+To compile and start executing the program, run the main method
 which is located in the Main.java file
